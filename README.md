@@ -29,7 +29,7 @@ A Qt-based GUI for trading currency and bitcoin through Blockchain
 
 ## Credits
 
-By [Sacha Bes]([https://github.com/sachabest)
+By [Sacha Best](https://github.com/sachabest)
 
 ## License
 
